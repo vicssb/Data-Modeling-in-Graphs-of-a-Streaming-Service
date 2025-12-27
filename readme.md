@@ -60,20 +60,6 @@ The following diagrams illustrate the graph schema designed for this challenge:
 
 These images provide a visual representation of the nodes, relationships, and properties in the streaming service data model.
 
-## Content
-
-- Introduction to Graph Databases and Neo4j
-- Cypher Query Language Basics
-- Data Modeling and Importing Data
-- Advanced Querying and Analysis
-- Graph Algorithms and Analytics
-- Best Practices and Deployment
-- Practical Projects and Challenges
-
-
-
-
-
 ## Prerequisites
 
 - Basic programming knowledge (e.g., Python, Java, or JavaScript)

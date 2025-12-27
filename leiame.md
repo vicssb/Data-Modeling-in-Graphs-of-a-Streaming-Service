@@ -60,20 +60,6 @@ Os seguintes diagramas ilustram o esquema de grafo projetado para este desafio:
 
 Essas imagens fornecem uma representação visual dos nós, relacionamentos e propriedades no modelo de dados do serviço de streaming.
 
-## Conteúdo
-
-- Introdução a Bancos de Dados de Grafos e Neo4j
-- Noções Básicas da Linguagem de Consulta Cypher
-- Modelagem de Dados e Importação de Dados
-- Consulta e Análise Avançadas
-- Algoritmos de Grafos e Análises
-- Melhores Práticas e Implantação
-- Projetos Práticos e Desafios
-
-
-
-
-
 ## Pré-requisitos
 
 - Conhecimento básico de programação (ex.: Python, Java ou JavaScript)
